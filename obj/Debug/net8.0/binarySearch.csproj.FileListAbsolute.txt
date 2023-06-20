@@ -1,0 +1,15 @@
+C:\Users\akemboi\source\repos\binarySearch\obj\Debug\net8.0\binarySearch.csproj.AssemblyReference.cache
+C:\Users\akemboi\source\repos\binarySearch\obj\Debug\net8.0\binarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akemboi\source\repos\binarySearch\obj\Debug\net8.0\binarySearch.AssemblyInfoInputs.cache
+C:\Users\akemboi\source\repos\binarySearch\obj\Debug\net8.0\binarySearch.AssemblyInfo.cs
+C:\Users\akemboi\source\repos\binarySearch\obj\Debug\net8.0\binarySearch.csproj.CoreCompileInputs.cache
+C:\Users\akemboi\source\repos\binarySearch\bin\Debug\net8.0\binarySearch.exe
+C:\Users\akemboi\source\repos\binarySearch\bin\Debug\net8.0\binarySearch.deps.json
+C:\Users\akemboi\source\repos\binarySearch\bin\Debug\net8.0\binarySearch.runtimeconfig.json
+C:\Users\akemboi\source\repos\binarySearch\bin\Debug\net8.0\binarySearch.dll
+C:\Users\akemboi\source\repos\binarySearch\bin\Debug\net8.0\binarySearch.pdb
+C:\Users\akemboi\source\repos\binarySearch\obj\Debug\net8.0\binarySearch.dll
+C:\Users\akemboi\source\repos\binarySearch\obj\Debug\net8.0\refint\binarySearch.dll
+C:\Users\akemboi\source\repos\binarySearch\obj\Debug\net8.0\binarySearch.pdb
+C:\Users\akemboi\source\repos\binarySearch\obj\Debug\net8.0\binarySearch.genruntimeconfig.cache
+C:\Users\akemboi\source\repos\binarySearch\obj\Debug\net8.0\ref\binarySearch.dll
